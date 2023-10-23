@@ -1,0 +1,17 @@
+commit 7da4050a17440d7ae7d1414966730e1c4e45b13e
+Author: Lautaro <lautarosperanza0@gmail.com>
+Date:   Mon Oct 23 19:21:34 2023 -0300
+
+    creando una rama
+
+commit 3166c58669324b74184e8123c0f4d9cc8bf7e5fe
+Author: Lautaro <lautarosperanza0@gmail.com>
+Date:   Wed Oct 18 20:10:23 2023 -0300
+
+    editando txt
+
+commit bf48e568deab32cb6dd9b3f44fb1ca41fb65d389
+Author: brunofuse <brunifuse@gmail.com>
+Date:   Tue Oct 17 19:24:27 2023 -0300
+
+    listo
